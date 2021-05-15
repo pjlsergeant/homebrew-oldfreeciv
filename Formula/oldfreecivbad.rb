@@ -1,8 +1,10 @@
-class Oldfreeciv < Formula
+# https://raw.githubusercontent.com/Homebrew/homebrew-core/31f50605cf8f972fe87bcba3a02b5c471c8f7da7/Formula/freeciv.rb
+# from https://github.com/Homebrew/homebrew-core/commit/31f50605cf8f972fe87bcba3a02b5c471c8f7da7#diff-dfe3ff2aaf0f227b3f7d4124a0333a24468ab4a1c74e0db6e9f600ce1fac2e52
+class Freeciv < Formula
   desc "Free and Open Source empire-building strategy game"
   homepage "http://freeciv.org"
-  url "https://downloads.sourceforge.net/project/freeciv/Freeciv%202.6/2.6.3/freeciv-2.6.3.tar.bz2"
-  sha256 "77432e027557a9eb407dac730ae9810ee172abe37111deb017fe72b8183ff8d1"
+  url "https://downloads.sourceforge.net/project/freeciv/Freeciv%202.6/2.6.4/freeciv-2.6.4.tar.bz2"
+  sha256 "40db957766acbd49c5af15afd1711da996b6681be7abee3352c5f2539c10c1ce"
   license "GPL-2.0-or-later"
 
   livecheck do
