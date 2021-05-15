@@ -1,4 +1,4 @@
-class Freeciv < Formula
+class Oldfreeciv < Formula
   desc "Free and Open Source empire-building strategy game"
   homepage "http://freeciv.org"
   url "https://downloads.sourceforge.net/project/freeciv/Freeciv%202.6/2.6.4/freeciv-2.6.4.tar.bz2"
